@@ -1,0 +1,14 @@
+body {
+    display: flex;
+}
+nav {
+    flex-grow: 1;
+    text-align: left;
+}
+nav ul {
+    list-style: none;
+    border-right: 2px solid black;
+}
+main {
+    flex-grow: 1;
+}
